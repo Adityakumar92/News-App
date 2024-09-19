@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 34,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By <a href=\"/profiles/kathleen-magramo\">Kathleen Magramo</a>, Sophie Tanno, Ed Upright, <a href=\"/profiles/aditi-sandal\">Aditi Sangal</a>, <a href=\"/profiles/adrienne-vogt\">Adrienne Vogt</a>, <a href=\"/profiles/leinz-vales\">Leinz Vales</a>, <a href=\"/profiles/elise-hammond\">Elise Hammond</a>, <a href=\"/profiles/maureen-chowdhury\">Maureen Chowdhury</a> and <a href=\"/profiles/amir-vera\">Amir Vera</a>, CNN",
+            "title": "Humanitarian crisis worsens in Gaza as Israel-Hamas fighting intensifies: Live updates - CNN",
+            "description": "There is \"unimaginable loss, destruction and misery\" in the Gaza Strip, the head of the World Food Programme said Thursday. \"Everyone in Gaza is hungry,\" WFP chief Cindy McCain said. Follow for live news updates.",
+            "url": "https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-12-07-23/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/231206082405-gaza-israel-tanks-120523-super-tease.jpeg",
+            "publishedAt": "2023-12-08T02:21:00Z",
+            "content": "Images from Gaza circulating on social media Thursday showed a mass detention by the Israeli military of men who were made to strip to their underwear, kneel on the street, wear blindfolds and pack i… [+3321 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Tyler Dragon, Jace Evans, Cydney Henderson, Victoria Hernandez, Jim Reineking",
+            "title": "Patriots vs. Steelers Thursday Night Football updates: Score, highlights, biggest plays - USA TODAY",
+            "description": "The Patriots and Steelers are set to face off on \"Thursday Night Football,\" with each franchise at a point of desperation.",
+            "url": "https://www.usatoday.com/story/sports/nfl/2023/12/07/patriots-steelers-thursday-night-football-score-live-updates/71841906007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/12/08/USAT/71846001007-ap-patriots-steelers-football.jpg?crop=4286,2411,x3,y181&width=3200&height=1801&format=pjpg&auto=webp",
+            "publishedAt": "2023-12-08T01:15:00Z",
+            "content": "The New England Patriots and Pittsburgh Steelers meet on \"Thursday Night Football\" at a point of desperation for both franchises.\r\nAt 2-10, the Patriots are off to the worst start of any team in the … [+19627 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Former La Habra police chief sentenced for role in Jan. 6 attack on US Capitol - KCAL News",
+            "description": null,
+            "url": "https://www.youtube.com/watch?v=TO7STPNylUQ",
+            "urlToImage": null,
+            "publishedAt": "2023-12-08T00:45:47Z",
+            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Pradnya Joshi",
+            "title": "Texas judge allows abortion in Cox case as AG Paxton threatens legal action - The Washington Post",
+            "description": "Kate Cox, a 31-year-old mother of two from the Dallas area, was 20 weeks pregnant when she found out her fetus had a severe anomaly.",
+            "url": "https://www.washingtonpost.com/politics/2023/12/07/texas-abortion-judge-ruling/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5IN5GNYV42IOSVJ3NPSJVLAGRI.jpg&w=1440",
+            "publishedAt": "2023-12-08T00:40:00Z",
+            "content": "Comment on this story\r\nComment\r\nAdd to your saved stories\r\nSave\r\nA judge in Texas is allowing a woman who is 20 weeks pregnant to get an abortion ina rarecase of a pregnant woman seeking a court orde… [+3393 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Aliza Chasan",
+            "title": "Derek Hough reveals his wife, Hayley Erbert, had emergency brain surgery after burst blood vessel - CBS News",
+            "description": "Derek Hough's wife, Hayley Erbert, was diagnosed with a cranial hematoma from a burst blood vessel, Hough said.",
+            "url": "https://www.cbsnews.com/news/derek-hough-wife-emergency-brain-surgery-burst-blood-vessel/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/12/08/1a45072b-3416-4a62-a6a4-35d343f1a64e/thumbnail/1200x630/60e413de35cf777d91165e1ce12f8df5/hayley-erbert-and-derek-hough.png?v=170b469460f9b5b4a2670b02bb591e2d",
+            "publishedAt": "2023-12-08T00:20:09Z",
+            "content": "Derek Hough's wife, Hayley Erbert, underwent emergency brain surgery after a cranial hematoma, Hough revealed in a Thursday Instagram post. \r\nErbert became disoriented after Wednesday night's perform… [+2017 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Evan Perez",
+            "title": "First on CNN: Federal prosecutors file new criminal case against Hunter Biden - CNN",
+            "description": "Federal prosecutors have filed a new criminal case against Hunter Biden, people briefed on the matter said.",
+            "url": "https://www.cnn.com/2023/12/07/politics/hunter-biden-criminal-case/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231204213538-hunter-biden-file-120423.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-12-08T00:01:00Z",
+            "content": "Federal prosecutors have filed a new criminal case against Hunter Biden, people briefed on the matter said.\r\nThe exact nature of the charges couldnt immediately be learned because court documents hav… [+349 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Google claims new Gemini AI 'thinks more carefully' | BBC News - BBC News",
+            "description": "Google has released an artificial intelligence (AI) model which it claims has advanced \"reasoning capabilities\" to \"think more carefully\" when answering hard...",
+            "url": "https://www.youtube.com/watch?v=l32mkUgC27g",
+            "urlToImage": "https://i.ytimg.com/vi/l32mkUgC27g/maxresdefault.jpg",
+            "publishedAt": "2023-12-07T23:00:24Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Glamour"
+            },
+            "author": "Sam Reed",
+            "title": "Selena Gomez Confirms Relationship With Producer Benny Blanco While Simultaneously Shading Her Exes - Yahoo Life",
+            "description": "“He's still better than anyone I've ever been with.”",
+            "url": "https://www.glamour.com/story/selena-gomez-confirms-relationship-with-producer-benny-blanco",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/6l_U3H9XmmdsqhuY8j65Cg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/glamour_497/05ad153461b1d8d0604c6445500a238d",
+            "publishedAt": "2023-12-07T22:48:13Z",
+            "content": "Selena Gomez said what she said!\r\nThe singer, 31, confirmed her new relationship with record producer Benny Blanco, 35, while simultaneously shading all of her exes. If you need a reminder: Gomez has… [+1278 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "ADAM BEAM",
+            "title": "California faces record $68 billion budget deficit, nonpartisan legislative analyst says - Yahoo News",
+            "description": "California is facing a record $68 billion budget deficit, state officials announced Thursday, forcing hard choices for Democratic Gov. Gavin Newsom in his...",
+            "url": "https://news.yahoo.com/californias-nonpartisan-legislative-analyst-says-173316133.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/4uprjaz9ekxt6B7HdSu9bw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap.org/59c8d370ef536178f4f2995404fd8357",
+            "publishedAt": "2023-12-07T22:41:07Z",
+            "content": "SACRAMENTO, Calif. (AP) California is facing a record $68 billion budget deficit, state officials announced Thursday, forcing hard choices for Democratic Gov. Gavin Newsom in his final term as he wor… [+5536 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "MIT, UPenn, Harvard University presidents under fire over testimony on antisemitism, genocide - ABC11",
+            "description": "Politicians are calling for the presidents of Harvard, MIT and the University of Pennsylvania to resign after testimony they gave on antisemitism and genocid...",
+            "url": "https://www.youtube.com/watch?v=M4IXFtCt8XM",
+            "urlToImage": "https://i.ytimg.com/vi/M4IXFtCt8XM/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGDUgWyhlMA8=&rs=AOn4CLBaBDaNqS16SRmGBsajx6-gUfY03g",
+            "publishedAt": "2023-12-07T22:28:49Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Alaina Getzenberg",
+            "title": "Bills coach Sean McDermott - Apologized for 9/11 remarks in 2019 - ESPN",
+            "description": "Bills coach Sean McDermott said Thursday he regretted mentioning 9/11 in a 2019 training camp talk with his team and \"immediately apologized\" to his players.",
+            "url": "https://www.espn.com/nfl/story/_/id/39065999/bills-coach-sean-mcdermott-regrets-9-11-comments-apologizes",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F1207%2Fr1263591_1296x729_16%2D9.jpg",
+            "publishedAt": "2023-12-07T22:21:00Z",
+            "content": "ORCHARD PARK, N.Y. -- Buffalo Bills coach Sean McDermott said Thursday he regretted mentioning 9/11 in a 2019 training camp talk with his team and \"immediately apologized\" to his players.\r\nMcDermott … [+2836 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Nicolas Vega",
+            "title": "Here's what's on the menu at McDonald's new CosMc's spinoff restaurant - CNBC",
+            "description": "The 'beverage concept' will open in Illinois this week.",
+            "url": "https://www.cnbc.com/2023/12/07/heres-whats-on-the-menu-at-mcdonalds-new-cosmcs-spinoff-restaurant.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107344192-1701894812493-CosMcsskyHero_2336x1040_hero-desktop.jpg?v=1701894855&w=1920&h=1080",
+            "publishedAt": "2023-12-07T22:07:38Z",
+            "content": "McDonald's is promising that the menu at its new CosMc's restaurant will be out of this world. \r\nThe fast food giant, which this week announced that the spinoff brand would be opening its first locat… [+2469 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Kylie Robison",
+            "title": "One of the two female OpenAI board members replaced after the Sam Altman incident says a company lawyer tried to pressure her with an ‘intimidation’ tactic - Fortune",
+            "description": "Speaking out for the first time since the shake-up at OpenAI, ex–board member Helen Toner told her side of the story in an interview with the Wall Street Journal.",
+            "url": "https://fortune.com/2023/12/07/helen-toner-openai-board-member-speaks-out-sam-altman-intimidation/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2023/12/Sam-Altman-Helen-Toner.jpg?resize=1200,600",
+            "publishedAt": "2023-12-07T21:33:27Z",
+            "content": "Amidst the pre-Thanksgiving holiday drama at OpenAI, in which CEO Sam Altman was abruptly fired by the companys board of directors, some of the boards lesser-known members found themselves thrust int… [+3548 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Graham Kates, Katrina Kaufman",
+            "title": "Trump returns to court as New York fraud trial nears its end - CBS News",
+            "description": "Former President Donald Trump has attended the trial eight times and testified on Nov. 6. He is also expected to be the final defense witness next week.",
+            "url": "https://www.cbsnews.com/news/donald-trump-in-court-today-new-york-fraud-trial-nears-end/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/12/07/6a5b362b-0fcb-4764-ad7e-79690c8c5cb4/thumbnail/1200x630g2/d47874108568b2f71b2877fa956b2cb5/ap23341541385018.jpg?v=170b469460f9b5b4a2670b02bb591e2d",
+            "publishedAt": "2023-12-07T21:28:00Z",
+            "content": "Former President Donald Trump returned to a New York courtroom on Thursday to attend his civil fraud trial, where his defense team questioned its final expert witness as the case approaches its concl… [+5639 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Business Wire",
+            "title": "lululemon athletica inc. Announces Third Quarter Fiscal 2023 Results, Board of Directors Authorizes $1.0 Billion Stock Repurchase Program - Yahoo Finance",
+            "description": "VANCOUVER, British Columbia, December 07, 2023--lululemon athletica inc. (NASDAQ:LULU) today announced financial results for the third quarter of fiscal 2023...",
+            "url": "https://finance.yahoo.com/news/lululemon-athletica-inc-announces-third-210500069.html",
+            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+            "publishedAt": "2023-12-07T21:05:00Z",
+            "content": "Revenue increased 19% to $2.2 billionComparable sales increased 13%, or increased 14% on a constant dollar basisGAAP EPS of $1.96, Adjusted EPS of $2.53\r\nVANCOUVER, British Columbia, December 07, 202… [+37316 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Ted Johnson",
+            "title": "NewsNation’s GOP Debate Coverage Draws More Than 4 Million, A Drop From The Last Republican Faceoff But A Record For The Network - Deadline",
+            "description": "Viewership for the fourth Republican debate fell since the last event, drawing more than 4 million for Nexstar’s NewsNation and its simulcast on The CW. But it was a record night for NewsNati…",
+            "url": "https://deadline.com/2023/12/gop-debate-ratings-drop-1235657080/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2023/12/GettyImages-1836218674.jpg?w=1024",
+            "publishedAt": "2023-12-07T20:39:00Z",
+            "content": "Viewership for the fourth Republican debate fell since the last event, drawing more than 4 million for Nexstar’s NewsNation and its simulcast on The CW.\r\nBut it was a record night for NewsNation, whi… [+1597 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": null,
+            "title": "U.S. announces military drills with Guyana amid dispute over oil-rich region with Venezuela - CBS News",
+            "description": "The U.S. said it would conduct joint military flight drills in Guyana on Thursday amid rising tensions with Venezuela over a disputed Guyanese territory that's rich in oil.",
+            "url": "https://www.cbsnews.com/news/guyana-venezuela-conflict-essequibo-oil-us-military-flight-drills/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/12/07/b8402b4a-acac-4214-80e6-9891984da597/thumbnail/1200x630/c6d5e749691d460255dce7ea49fef00a/ap23324705335711.jpg?v=170b469460f9b5b4a2670b02bb591e2d",
+            "publishedAt": "2023-12-07T20:23:12Z",
+            "content": "The United States announced joint military flight drills in Guyana on Thursday as tensions over a contested oil-rich region with neighbor Venezuela prompted the U.N. Security Council to call an urgen… [+6374 chars]"
+        },
+        {
+            "source": {
+                "id": "entertainment-weekly",
+                "name": "Entertainment Weekly"
+            },
+            "author": "https://www.facebook.com/entertainmentweekly",
+            "title": "'Squid Game: The Challenge' Player 287/Mai talks finale spoilers - Entertainment Weekly News",
+            "description": "'Squid Game: The Challenge' Player 287/Mai Whelan breaks down her 'dominating' performance all season, her beef with Player 278/Ashley Tolbert, what fans didn't see in the finale, and more.",
+            "url": "https://ew.com/squid-game-the-challenge-player-287-mai-whelan-talks-finale-spoilers-8412127",
+            "urlToImage": "https://ew.com/thmb/9938YJzTfTptZXt2gxt5ZjBEtm4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/squid-games-the-challenge-mai-player-287-120723-1-3abc8ff5795d4fc289f8de739980a6c3.jpg",
+            "publishedAt": "2023-12-07T20:09:13Z",
+            "content": "Warning: This article contains spoilers for the season finale of Squid Game: The Challenge.\r\nDespite what some salty Squid Game: The Challenge contestants may think, Player 287/Mai Whelan went into t… [+9911 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Axios",
+            "title": "Elon Musk: Disney CEO Bob Iger \"should be fired immediately\" - Axios",
+            "description": null,
+            "url": "https://www.axios.com/2023/12/07/elon-musk-disney-bob-iger",
+            "urlToImage": null,
+            "publishedAt": "2023-12-07T20:05:13Z",
+            "content": null
+        }
+    ]
+}
